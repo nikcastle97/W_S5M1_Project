@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 3,
+  "editor.cursorStyle": "line",
+  "editor.wordWrap": "off",
+  "workbench.activityBar.iconClickBehavior": "focus",
+  "workbench.activityBar.location": "top",
+  "workbench.colorTheme": "Dark+ Material",
+  "workbench.colorCustomizations": {
+    "[Vue Theme High Contrast]": {}
+  },
+  "window.autoDetectColorScheme": true,
+  "window.commandCenter": true,
+  "window.density.editorTabHeight": "compact"
+}
